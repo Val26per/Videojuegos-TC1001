@@ -3,14 +3,15 @@ Semana Tec
 #
 Realizado por: 
 Ana Valeria Pérez Pérez A01747541
-Andrea Samantha Aguila Ramirez A01656200
+Andrea Samantha Aguilar Ramírez A01656200
 #
 # Actividad 1
-Lo que nos pide realizar la actividad en el ejercio son lo siguiente:
+Lo que nos pide realizar la actividad en el ejercicio son lo siguiente:
 
 
--Un nuevo color 
--Dibujar un circulo.
--Completar el recatangulo
- -Completar el triangulo.
- En el primero se agrego el color purpura que aparece en la linea  89
+-Un nuevo color. En nuestro código se agrego el color purpura en la línea 89
+
+
+-Dibujar un círculo.
+-Completar el rectángulo
+ -Completar el triángulo.
