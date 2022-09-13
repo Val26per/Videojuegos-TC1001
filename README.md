@@ -12,5 +12,5 @@ Lo que nos pide realizar la actividad en el ejercio son lo siguiente:
 -Un nuevo color 
 -Dibujar un circulo.
 -Completar el recatangulo
--Completar el triangulo.
+ -Completar el triangulo.
 
