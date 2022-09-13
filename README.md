@@ -19,3 +19,18 @@ Lo que nos pide realizar la actividad en el ejercicio son lo siguiente:
 
 
  -Completar el triángulo. En nuestro código esta desde la línea 50 a la 61
+ #
+# Actividad 2
+
+
+#
+# Actividad 3
+
+
+#
+# Actividad 4
+
+
+
+#
+# Actividad 5
