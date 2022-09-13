@@ -13,4 +13,4 @@ Lo que nos pide realizar la actividad en el ejercio son lo siguiente:
 -Dibujar un circulo.
 -Completar el recatangulo
  -Completar el triangulo.
-
+ En el primero se agrego el color purpura que aparece en la linea  89
