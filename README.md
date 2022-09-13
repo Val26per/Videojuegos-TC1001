@@ -34,3 +34,16 @@ Lo que nos pide realizar la actividad en el ejercicio son lo siguiente:
 
 #
 # Actividad 5
+Lo que se nos pide en la actividad es lo siguiente:
+
+
+-Contar y desplegar el número de taps. 	Lo que modificamos fue 
+
+
+-Detectar cuando todos los cuadros se han destapado
+
+
+-Centrar el digito del cuadrado. Utilizamos la siguiente instrucción 
+
+
+-Como un condimento de incoación al juego. ¿Podrías utilizas algo diferente a los dígitos para resolver el juego y que al usuario le ayude a tener mejor memoria?
